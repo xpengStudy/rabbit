@@ -2,3 +2,7 @@
 /rabbit.iml
 /rabbit.iml
 /.idea/
+*.class
+*.classpath
+/target/classes/com/xp/thread/Bank.class
+/target
