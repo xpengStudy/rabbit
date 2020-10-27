@@ -1,9 +1,6 @@
-/rabbit.iml
-/rabbit.iml
 *.iml
 /.idea/
+*/target
 *.class
 *.classpath
-/target/classes/com/xp/thread/Bank.class
-/target
-/test/test.iml
+*.iml

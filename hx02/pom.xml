@@ -9,12 +9,12 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>test2</artifactId>
+    <artifactId>hx02</artifactId>
 
     <dependencies>
         <dependency>
             <groupId>com.xp</groupId>
-            <artifactId>test</artifactId>
+            <artifactId>hx01</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
     </dependencies>
